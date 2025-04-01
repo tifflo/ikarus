@@ -1,0 +1,6 @@
+__pycache__
+ikarus.py
+/env
+.vscode
+frontend/*
+!frontend/src
